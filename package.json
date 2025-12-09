@@ -1,0 +1,11 @@
+﻿{
+  "name": "com.erlend-eiken-oppedal.enumdictionary",
+  "version": "1.0.0",
+  "displayName": "EnumDictionary",
+  "author": {
+    "name": "Erlend Eiken Oppedal",
+    "email": "erlend.oppedal@gmail.com"
+  },
+  "dependencies": {
+  }
+}
